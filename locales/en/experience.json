@@ -1,0 +1,39 @@
+{
+  "title": "Professional Experience",
+  "academic_coordinator": {
+    "title": "Academic Coordinator",
+    "company": "Centro Universitario UNE",
+    "date": "Jan 2024 - Jan 2026",
+    "tasks": [
+      "Supervision of academic programs ensuring alignment with institutional standards.",
+      "Coordination of teaching assignments and monitoring of teaching effectiveness.",
+      "Implementation of improvements in academic processes and curricula."
+    ]
+  },
+  "software_engineer": {
+    "title": "Software Engineer",
+    "company": "Fundación Cardenal Garibi Rivera",
+    "date": "Feb 2020 - Feb 2026",
+    "tasks": [
+      "Development and maintenance of specialized IT systems to streamline internal processes.",
+      "Requirements analysis and implementation of scalable software solutions.",
+      "Support for digital transformation initiatives within the foundation (Landing Page Web Design)."
+    ]
+  },
+  "teacher": {
+    "title": "Engineering Professor",
+    "company": "Centro Universitario UNE",
+    "date": "Feb 2023 - Dec 2023",
+    "description": "Teaching undergraduate courses aligned with the University of Guadalajara curriculum. Design and evaluation of courses promoting problem-solving and programming skills."
+  },
+  "assistant": {
+    "title": "Academic Coordination Assistant",
+    "company": "Centro de Desarrollo Integral Arboledas (CEDI)",
+    "date": "Oct 2022 - Feb 2023",
+    "description": "Updating and improving study programs in the Technology Coordination area. Assisting teachers with teaching resources and programming."
+  },
+  "publication": {
+    "title": "Academic Publication (2019)",
+    "description": "Co-author of the research article: \"Detection of Knowledge Management Maturity Levels in Computer Programming Learning\" published in DIM Didáctica, Innovación y Multimedia."
+  }
+}

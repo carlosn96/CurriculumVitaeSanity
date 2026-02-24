@@ -1,0 +1,39 @@
+{
+  "title": "Experiencia Profesional",
+  "academic_coordinator": {
+    "title": "Coordinador Académico",
+    "company": "Centro Universitario UNE",
+    "date": "Ene 2024 - Ene 2026",
+    "tasks": [
+      "Supervisión de programas académicos asegurando la alineación con estándares institucionales.",
+      "Coordinación de asignaciones docentes y monitoreo de la efectividad de la enseñanza.",
+      "Implementación de mejoras en procesos académicos y currícula."
+    ]
+  },
+  "software_engineer": {
+    "title": "Ingeniero de Software",
+    "company": "Fundación Cardenal Garibi Rivera",
+    "date": "Feb 2020 - Feb 2026",
+    "tasks": [
+      "Desarrollo y mantenimiento de sistemas IT especializados para agilizar procesos internos.",
+      "Análisis de requerimientos e implementación de soluciones de software escalables.",
+      "Soporte a iniciativas de transformación digital dentro de la fundación (Diseño Web Landing Page)."
+    ]
+  },
+  "teacher": {
+    "title": "Docente de Ingeniería",
+    "company": "Centro Universitario UNE",
+    "date": "Feb 2023 - Dic 2023",
+    "description": "Impartición de cursos de pregrado alineados con el currículo de la Universidad de Guadalajara. Diseño y evaluación de asignaturas promoviendo la resolución de problemas y habilidades de programación."
+  },
+  "assistant": {
+    "title": "Asistente de Coordinación Académica",
+    "company": "Centro de Desarrollo Integral Arboledas (CEDI)",
+    "date": "Oct 2022 - Feb 2023",
+    "description": "Actualización y mejora de programas de estudio en el área de Coordinación Tecnológica. Asistencia a profesores con recursos didácticos y programación."
+  },
+  "publication": {
+    "title": "Publicación Académica (2019)",
+    "description": "Coautor del artículo de investigación: \"Detection of Knowledge Management Maturity Levels in Computer Programming Learning\" publicado en DIM Didáctica, Innovación y Multimedia."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "technical": "Technical Education",
+  "computer_engineering": {
+    "title": "Computer Engineering",
+    "institution": "U. de Guadalajara (CUCEI)",
+    "status": "Graduated",
+    "date": "2015-2020",
+    "specialty": "Specialty:",
+    "specialty_text": "Intelligent Data Classification, Project Management.",
+    "electives": "Electives:",
+    "electives_text": "Organizational Development."
+  },
+  "ai_datascience": {
+    "title": "AI & Data Science",
+    "institution": "Centro Universitario de Guadalajara",
+    "status": "In Progress",
+    "date": "2025 - Present"
+  },
+  "continuous_education": "Continuing Education",
+  "media": "Media Training",
+  "communication": {
+    "title": "Communication Diploma",
+    "institution": "Institute of Communication and Philosophy (2019)",
+    "description": "Specialization in communication and digital strategies focused on academic and institutional environments."
+  },
+  "humanist": "Humanistic Training",
+  "philosophy": "Philosophy and Pedagogy",
+  "philosophy_inst": "Franciscan Institute of Philosophy.",
+  "interests": "Interests & Languages",
+  "interests_text": "Philosophy of Technology, Cultural History.",
+  "languages": "Languages:",
+  "languages_text": "English"
+}
