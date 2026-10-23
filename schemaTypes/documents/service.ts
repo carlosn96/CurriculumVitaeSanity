@@ -72,6 +72,12 @@ export const service = defineType({
       initialValue: 'fas fa-briefcase',
     }),
     defineField({
+      name: 'officialIcon',
+      title: 'Icono Oficial de Tecnología (Simple Icons / React Icons)',
+      type: 'string',
+      description: 'Identificador oficial de icono (ej. SiReact, SiWordpress, SiNginx).',
+    }),
+    defineField({
       name: 'badge',
       title: 'Badge / Etiqueta destacada (opcional)',
       type: 'localeString',
