@@ -26,7 +26,7 @@ export const education = defineType({
           {title: 'Educación Técnica', value: 'technical'},
           {title: 'Formación Continua', value: 'continuous'},
           {title: 'Formación en Medios', value: 'media'},
-          {title: 'Formación Humanista', value: 'humanist'},
+          {title: 'Filosofía y Humanidades', value: 'humanist'},
           {title: 'Intereses e Idiomas', value: 'interests'},
         ],
       },
